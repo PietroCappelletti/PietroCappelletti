@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on some projects, visit my [website][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Make some good projects
+- 🥅 2022 Goals: Learn TypeScript, upgrade my website and of course make some good projects
 - ⚡ Fun fact: I love music
 
 ### Languages and Tools:
